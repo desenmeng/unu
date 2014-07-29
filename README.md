@@ -28,8 +28,6 @@ unu('http://m.baidu.com',{userAgent:'IPHONE'},function(result){
 });
 ```
 
->userAgent options
-
 ### ToDo
 
 * support link stylesheet
